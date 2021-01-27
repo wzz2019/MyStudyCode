@@ -1,0 +1,13 @@
+  a: 1
+  b:
+    c: 3
+    d: 4
+  e:
+    str: "string string"
+    int: 123456
+    float: 56.77
+    bool1: true
+    bool2: false
+    none: ~
+    datetime1: 2021-01-27
+    datetime2: 2021-01-27 15:00:00
